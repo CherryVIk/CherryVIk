@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CherryVIk
 - 👀 I’m interested in iOS applications, Data Science development
 - 🌱 I’m currently learning Data Science, Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me 
 vik.boichenko@gmail.com
 https:// www.linkedin.com/in/ victoriaboichenko/
