@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Data Science, Python
 - 💞️ 
 - 📫 How to reach me 
-vik.boichenko@gmail.com
-https:// www.linkedin.com/in/ victoriaboichenko/
-Skype: victoriaboichenko
+- vik.boichenko@gmail.com
+- https:// www.linkedin.com/in/ victoriaboichenko/
+- Skype: victoriaboichenko
 
 <!---
 CherryVIk/CherryVIk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
