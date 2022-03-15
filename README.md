@@ -4,7 +4,7 @@
 - 💞️ 
 - 📫 How to reach me 
 - vik.boichenko@gmail.com
-- https:// www.linkedin.com/in/ victoriaboichenko/
+- https://www.linkedin.com/in/victoriaboichenko/
 - Skype: victoriaboichenko
 
 <!---
