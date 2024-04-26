@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @CherryVIk
-- 👀 I’m interested in iOS applications, Data Science development
-- 🌱 I’m currently learning Data Science, Python
+- 👀 I’m interested in underwater acoustics applications, and Data Science development
+- 🌱 Currently, I am finishing my master's in Acoustic Engineering, and learning modeling of bubbles with Matlab, sometimes Python
 - 💞️ 
 - 📫 How to reach me 
 - vik.boichenko@gmail.com
-- https://www.linkedin.com/in/victoriaboichenko/
-- Skype: victoriaboichenko
+- https://www.linkedin.com/in/viktoriiaboichenko/
 
 <!---
 CherryVIk/CherryVIk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
