@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @CherryVIk
-- 👀 I’m interested in underwater acoustics applications, and Data Science development
-- 🌱 Currently, I am finishing my master's in Acoustic Engineering, and learning modeling of bubbles with Matlab, sometimes Python
-- 💞️ 
+- 👀 I’m interested in underwater acoustics applications, and  NN clasification
+- I finished my master's in Acoustic Engineering,
+- 🌱 Currently, I do my PhD
+- Programming Languages: Matlab, sometimes Python, C++
+- Other languages: Ukrianian, English, German, Czech
+- 
 - 📫 How to reach me 
 - vik.boichenko@gmail.com
 - https://www.linkedin.com/in/viktoriiaboichenko/
