@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CherryVIk
 - 👀 I’m interested in underwater acoustics applications, and  NN clasification
-- I finished my master's in Acoustic Engineering,
-- 🌱 Currently, I do my PhD
-- Programming Languages: Matlab, sometimes Python, C++
-- Other languages: Ukrianian, English, German, Czech
+- I finished my master's in Acoustic Engineering, Erasmus Mundus "WAVES"
+- 🌱 Currently, I do my PhD in Kiel
+- Programming Languages: Matlab, Python, C++
+- Human languages: Ukrainian, English, German, Czech
 - 
 - 📫 How to reach me 
 - vik.boichenko@gmail.com
